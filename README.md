@@ -1,6 +1,5 @@
 # Stock Processing — Analyse des actions du S&P 500 avec PySpark
 
-**Auteur :** Lauric GBOZO
 
 ## Description
 
