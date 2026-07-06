@@ -3,7 +3,7 @@
 
 ## Description
 
-Ce notebook (`Stock_prosessing_.ipynb`) est un mini-projet réalisé sur **Google Colab** qui met en place un environnement **Apache Spark (PySpark)** pour explorer, nettoyer et analyser le jeu de données [S&P 500 Stocks](https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks) (Kaggle), constitué de trois fichiers :
+Ce notebook (`Stock_prosessing_.ipynb`) est un projet réalisé sur **Google Colab** qui met en place un environnement **Apache Spark (PySpark)** pour explorer, nettoyer et analyser le jeu de données [S&P 500 Stocks](https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks) (Kaggle), constitué de trois fichiers :
 
 - `sp500_companies.csv` — informations sur les entreprises (secteur, industrie, capitalisation, etc.)
 - `sp500_index.csv` — valeur historique de l'indice S&P 500
